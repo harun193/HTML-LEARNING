@@ -1,0 +1,15 @@
+ul {
+  margin: 0 0 15px;
+  padding: 50px;
+  list-style: none;
+  text-align: center;
+}
+ul li {
+  display: inline-block;
+}
+ul li a {
+  color: white;
+  background: teal;
+  padding: 10px 25px;
+
+}
